@@ -1,5 +1,5 @@
 
-# 1. DANH SÁCH CÁC THÀNH VIÊN TRONG NHÓM
+# I. DANH SÁCH CÁC THÀNH VIÊN TRONG NHÓM
       1. -Họ Và Tên:ĐÀM VĂN NHANH
          -MSSV:18600367
          -Gmail:damvannhanh48@gmail.com
@@ -12,4 +12,4 @@
          -MSSV: 18600221
          -Gmail:quan.truong.0711@gmail.com
          -SDT:0902091852
-## 2. **link GitHub:** https://github.com/dvnhanh/SoanThaoBaoCao?fbclid=IwAR2dJ2hNTgPAvhoT_EPiwQ-lToCRO5GQkCJY8Hrj1Z142qPiQ-LgU290DAo
+## II. **link GitHub:** https://github.com/dvnhanh/SoanThaoBaoCao?fbclid=IwAR2dJ2hNTgPAvhoT_EPiwQ-lToCRO5GQkCJY8Hrj1Z142qPiQ-LgU290DAo
